@@ -1,0 +1,27 @@
+.Centre {
+    height: 100px;
+    background-color: rgb(182, 169, 169);
+    color: rgb(26, 23, 23);
+    margin-bottom: 15px;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+body {
+    margin: 0;
+}
+.d{
+    
+    text-align: center;
+
+        position: relative;
+   
+
+        float:left;
+        width:30%;
+    
+        
+}
